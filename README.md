@@ -13,17 +13,10 @@ The Notary Data Scraper is a Python script that utilizes the Playwright library 
 - Python 3.x
 - Playwright library (`pip install playwright`)
 
-## How to Use
-
-1. Clone the repository:
-
-   ```bash
-   git clone <repository_url>
-   cd notary-data-scraper
 
    Configuration
 Modify the urls_to_process list in the script to include the URLs you want to scrape.
 Adjust the script as needed to meet specific requirements.
 
 Authors
-[Abhijit]
+Abhijit
